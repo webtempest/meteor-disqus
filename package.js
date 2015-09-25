@@ -2,7 +2,7 @@ Package.describe({
   name: 'webtempest:disqus',
   version: '0.0.1',
   summary: 'Add disqus to your app',
-  git: '',
+  git: 'git@github.com:webtempest/meteor-disqus.git',
   documentation: 'README.md'
 });
 
